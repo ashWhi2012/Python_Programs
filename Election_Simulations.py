@@ -279,7 +279,7 @@ def main():
 
   num_alts = [10, 12, 15]
   num_ballots = [10, 20, 30, 40, 50]
-  num_profiles = 10000
+  num_profiles = 1000
 
   x_plot_num_voters = []
   y_frequencies = []
